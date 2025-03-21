@@ -1,5 +1,7 @@
 # Mission 2
 
+Доказательство, что я умею пользоваться гитом.
+
 ## Part 0
 
 [Link to video](https://drive.google.com/file/d/1Ey9h68Xeqx9RxqakasZH9Dgh0J_eFJT8/view?usp=sharing)
